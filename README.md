@@ -5,6 +5,7 @@ Avant de lancer le programme, il y a 2 étapes **obligatoires** :
 1. L'installation des modules, pour ce faire, vous devez simplement lancer le fichier "setup.bat" et attendre
 
 2. L'installation de ImageMagick, pour ce faire, vous devez simplement l'installer via ce lien : https://imagemagick.org/archive/binaries/ImageMagick-7.1.0-59-Q16-HDRI-x64-dll.exe
+
    Puis, se rendre dans C:\Users\NOM_UTILISATEUR\AppData\Roaming\Python\Python311\site-packages\moviepy
    Ensuite ouvrir avec le bloc note le fichier "config_defaults.py"
    Se rendre à la ligne 47 (IMAGEMAGICK_BINARY) et vous devrez voir cette ligne :
